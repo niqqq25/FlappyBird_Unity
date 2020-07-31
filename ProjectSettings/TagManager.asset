@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pipe
+  - EmptyPipe
+  - Score
+  - Base
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Base
+  - Bird
+  - Pipe
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3830488315
+    locked: 0
+  - name: Pipe
+    uniqueID: 137579277
+    locked: 0
+  - name: Bird
+    uniqueID: 568466989
+    locked: 0
+  - name: Base
+    uniqueID: 838596645
+    locked: 0
+  - name: UI
+    uniqueID: 2256522951
+    locked: 0
